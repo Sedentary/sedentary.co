@@ -99,7 +99,7 @@ h2 {
 .mcontent {
   min-height: 153px;
   background: #ebebeb url(../images/main.gif) left top repeat-x;
-  width: 484px;
+  width: 534px;
   border-left: 1px solid #f7f7f7;
   margin: 0 auto;
   border-right: 1px solid #f7f7f7;
@@ -127,7 +127,7 @@ h2 {
   text-align: left;
   min-height: 110px;
   padding: 20px;
-  width: 172px;
+  width: 222px;
 }
 
 .box2 a {
